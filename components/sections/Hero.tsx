@@ -54,7 +54,7 @@ export const Hero = () => {
                     </Link>
 
                     <Link
-                        href="/Deo Ajay J.pdf"
+                        href="/Deo Ajay J - Frontend Developer.pdf"
                         target="_blank"
                         className="group relative inline-flex h-12 items-center justify-center gap-2 rounded-lg border border-white/10 bg-white/5 px-8 text-sm font-medium text-white backdrop-blur-sm transition-colors hover:bg-white/10"
                     >
