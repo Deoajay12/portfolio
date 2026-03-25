@@ -22,16 +22,16 @@ export const About = () => {
                 <div className="grid gap-8 md:grid-cols-1">
                     <FloatingCard className="border-l-4 border-l-primary bg-gradient-to-br from-white/5 to-transparent">
                         <p className="text-lg text-gray-300 leading-relaxed">
-                            Frontend Developer with <span className="text-primary font-semibold">2.7 years of experience</span> building scalable, responsive,
-                            and user-friendly web applications using React.js, Angular, JavaScript, and TypeScript.
-                            Experienced in government portals, dashboards, funding platforms, and admin systems.
+                            MERN Stack Developer with <span className="text-primary font-semibold">2.7 years of experience</span> building scalable, responsive,
+                            and user-friendly web applications using MongoDB, Express.js, React.js, Node.js, and TypeScript.
+                            Experienced in developing full-stack applications, REST APIs, dashboards, funding platforms, and admin systems.
                         </p>
                     </FloatingCard>
 
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">
                         <FloatingCard delay={0.2} className="flex flex-col gap-2">
                             <h3 className="text-xl font-semibold text-white">Experience</h3>
-                            <p className="text-gray-400">2.7 Years in Frontend Development</p>
+                            <p className="text-gray-400">2.7 Years in MERN Stack Development</p>
                         </FloatingCard>
                         <FloatingCard delay={0.4} className="flex flex-col gap-2">
                             <h3 className="text-xl font-semibold text-white">Location</h3>

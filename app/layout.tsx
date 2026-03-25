@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Deo Ajay J | Frontend Developer",
-  description: "Frontend Developer Portfolio with an Antigravity theme.",
+  title: "Deo Ajay J | Mern Stack Developer",
+  description: "Mern Stack Developer Portfolio with an Antigravity theme.",
 };
 
 import { Navbar } from "@/components/layout/Navbar";

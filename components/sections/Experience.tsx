@@ -6,21 +6,13 @@ import { FloatingCard } from "@/components/ui/FloatingCard";
 const experienceData = [
     {
         company: "Amizhth Techno Solution",
-        role: "Frontend Developer",
-        period: "06/2023 – 07/2025",
+        role: "MERN Stack Developer",
+        period: "01/2023 – 07/2025",
         points: [
-            "Built scalable UIs using React, Angular, TypeScript",
-            "Integrated REST APIs",
-            "Focused on performance and accessibility"
-        ]
-    },
-    {
-        company: "ARM Info Tech",
-        role: "Frontend Developer",
-        period: "01/2023 – 05/2023",
-        points: [
-            "Built design systems",
-            "Converted Figma designs into responsive UI"
+            "Developed full-stack applications using MongoDB, Express.js, React.js, and Node.js",
+            "Designed and integrated RESTful APIs",
+            "Built scalable and responsive UIs using React.js and TypeScript",
+            "Optimized application performance and ensured accessibility best practices"
         ]
     }
 ];

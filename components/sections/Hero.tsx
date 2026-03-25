@@ -27,7 +27,7 @@ export const Hero = () => {
                     transition={{ duration: 0.5, delay: 0.1 }}
                     className="mb-6 text-5xl font-bold tracking-tight text-white sm:text-7xl"
                 >
-                    Frontend <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-purple-400">Developer</span>
+                    MERN Stack <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-purple-400">Developer</span>
                 </motion.h1>
 
                 <motion.p
@@ -36,7 +36,7 @@ export const Hero = () => {
                     transition={{ duration: 0.5, delay: 0.2 }}
                     className="mb-8 max-w-[600px] text-lg text-gray-400 sm:text-xl"
                 >
-                    Building scalable, responsive, and user-friendly web applications using React, Next.js, Angular, and TypeScript.
+                    Building scalable, responsive, and user-friendly web applications using MongoDB, Express.js, React.js, Node.js, and TypeScript.
                 </motion.p>
 
                 <motion.div
@@ -54,7 +54,7 @@ export const Hero = () => {
                     </Link>
 
                     <Link
-                        href="/Deo Ajay J - Frontend Developer.pdf"
+                        href="/Deo Ajay J - MERN Stack Developer.pdf"
                         target="_blank"
                         className="group relative inline-flex h-12 items-center justify-center gap-2 rounded-lg border border-white/10 bg-white/5 px-8 text-sm font-medium text-white backdrop-blur-sm transition-colors hover:bg-white/10"
                     >

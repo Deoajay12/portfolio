@@ -9,6 +9,10 @@ const skillsData = [
         skills: ["HTML5", "CSS3", "JavaScript (ES6+)", "TypeScript", "Tailwind CSS", "Bootstrap"],
     },
     {
+        category: "Backend",
+        skills: ["Node.js", "Express.js", "MongoDB"],
+    },
+    {
         category: "Frameworks",
         skills: ["React.js", "Next.js", "Angular", "Redux", "Context API"],
     },
