@@ -40,7 +40,7 @@ export const Contact = () => {
                                     </div>
                                     GitHub Profile
                                 </Link>
-                                <Link href="https://linkedin.com" target="_blank" className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors">
+                                <Link href="https://www.linkedin.com/in/deo-ajay" target="_blank" className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors">
                                     <div className="p-2 bg-primary/20 rounded-lg text-primary">
                                         <Linkedin size={20} />
                                     </div>

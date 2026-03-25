@@ -48,7 +48,7 @@ export const Navbar = () => {
                             <Github size={18} />
                         </Link>
                         <Link
-                            href="https://www.linkedin.com/in/deo-ajay-39a865210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                            href="https://www.linkedin.com/in/deo-ajay"
                             target="_blank"
                             className="text-gray-400 hover:text-white transition-colors"
                         >
